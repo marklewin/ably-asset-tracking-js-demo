@@ -1,0 +1,18 @@
+{
+  "name": "ably-app-template-node",
+  "version": "1.0.0",
+  "description": "Sample app template",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Mark Lewin",
+  "license": "ISC",
+  "dependencies": {
+    "@ably/asset-tracking": "^1.0.0-beta.2",
+    "ably": "^1.2.10",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
