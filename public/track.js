@@ -1,9 +1,7 @@
 import { Subscriber, Accuracy } from "/aat/main.js"
 
-//const { Accuracy, Subscriber } = AblyAssetTracking
-
 const ablyOptions = {
-  key: "A9sjkA.lfPulA:3mNIFhvjKZx1z1Is",
+  key: "api-key-goes-here",
   clientId: "aat-js-client",
 }
 
